@@ -30,7 +30,8 @@ A simple web-based calculator built with HTML, CSS, and JavaScript. This project
     
     CSS (style.css) styles the look and layout.
     
-    JavaScript (script.js) handles the calculator logic—listens for button clicks, updates display, and performs operations.
+    JavaScript (script.js) handles the calculator logic—listens for button clicks, 
+    updates display, and performs operations.
 
 **🛠️ Technologies Used**
 
