@@ -62,7 +62,7 @@ A simple web-based calculator built with HTML, CSS, and JavaScript. This project
 
 **🖼️ Preview**
 
-    (https://calculator-seven-zeta-30.vercel.app/)
+   [ https://calculator-seven-zeta-30.vercel.app/](https://calculator-seven-zeta-30.vercel.app/)
 
 **🤝 Contributing**
 
